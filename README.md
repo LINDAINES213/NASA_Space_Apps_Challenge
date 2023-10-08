@@ -19,7 +19,7 @@ Lunar Eclipses and Solar Eclipses | NASA Space Place – NASA Science for Kids. 
 Dobrijevic, D., &amp; Rao, J. (2022, July 4). What is a solar eclipse? https://www.space.com/15584-solar-eclipses.html <br>
 Images taken from Freepik. https://www.freepik.es
 
-## TinyMinds' Team Members:<br>
+## TINYMINDS' TEAM MEMBERS
 Linda Jiménez | @LINDAINES213 <br>
 Javier Ramírez | @XJ4v1erX <br>
 Mario Guerra | @MarioGuerra21008 <br>
