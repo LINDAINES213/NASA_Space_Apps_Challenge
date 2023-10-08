@@ -4,7 +4,7 @@ Our challenge, which is "Eclipses: Perspective is Everything," aimed to create a
 ## PROJECT DEMO
 N/A
 ## FINAL PROJECT
-https://lindaines213.github.io/Space_Apps_Challenge/<br><br>
+(https://lindaines213.github.io/Space_Apps_Challenge/){:target="_blank"} <br><br>
 ## PROJECT DETAILS
 Our website begins with images and a welcome message that outlines the page's dynamics, including the new topics you'll learn about, etc. The page itself contains information about eclipses, how they occur, what they are, what types exist, etc., and also includes plenty of images to enhance understanding. In this case, definitions, concepts, and other information about this topic were paraphrased to ensure that young children can comprehend what eclipses are and have effective and enjoyable learning. Towards the end of the page, there is a space-themed maze game to provide additional entertainment for the user.<br><br>
 
@@ -13,11 +13,11 @@ For this project, we used the Nicepages tool, which allows for the creation of w
 ## USE OF ARTIFICIAL INTELLIGENCE
 We used Microsoft's AI Copilot for assistance in paraphrasing a significant portion of concepts and definitions related to eclipses. This helped us present the information in a simpler and more child-friendly language, enabling young children to gain a better understanding of what an eclipse is and comprehend the rest of the information provided on our interactive web page. <br><br>
 ## SPACE AGENCY DATA
-Eclipses - NASA Science (2023, May 25). Nasa.gov.  https://science.nasa.gov/eclipses/‌ <br>
-Lunar Eclipses and Solar Eclipses | NASA Space Place – NASA Science for Kids. (2021). Nasa.gov. https://spaceplace.nasa.gov/eclipses/en/#:~:text=Getting%20a%20chance%20to%20see,path%20of%20the%20Moon's%20shadow‌ <br><br>
+Eclipses - NASA Science (2023, May 25). Nasa.gov.  (https://science.nasa.gov/eclipses‌){:target="_blank"} <br>
+Lunar Eclipses and Solar Eclipses | NASA Space Place – NASA Science for Kids. (2021). Nasa.gov. (https://spaceplace.nasa.gov/eclipses/en/#:~:text=Getting%20a%20chance%20to%20see,path%20of%20the%20Moon's%20shadow‌){:target="_blank"} <br><br>
 ## REFERENCES
-Dobrijevic, D., &amp; Rao, J. (2022, July 4). What is a solar eclipse? https://www.space.com/15584-solar-eclipses.html <br>
-Images taken from Freepik. https://www.freepik.es
+Dobrijevic, D., &amp; Rao, J. (2022, July 4). What is a solar eclipse? (https://www.space.com/15584-solar-eclipses.html){:target="_blank"} <br>
+Images taken from Freepik (https://www.freepik.es){:target="_blank"}
 
 ## TINYMINDS' TEAM MEMBERS
 Linda Jiménez | @LINDAINES213 <br>
