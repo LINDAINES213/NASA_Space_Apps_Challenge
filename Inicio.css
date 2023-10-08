@@ -158,10 +158,13 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-text-1 {
-    margin-left: 283px;
+    width: auto;
+    margin-top: 75px;
+    margin-left: auto;
   }
 
   .u-section-2 .u-text-2 {
+    margin-top: 35px;
     margin-left: 9px;
     margin-right: 9px;
   }
@@ -174,9 +177,7 @@
 
   .u-section-2 .u-text-1 {
     font-size: 2.25rem;
-    width: auto;
     margin-top: 59px;
-    margin-left: auto;
   }
 
   .u-section-2 .u-text-2 {
