@@ -13,11 +13,11 @@ For this project, we used the Nicepages tool, which allows for the creation of w
 ## USE OF ARTIFICIAL INTELLIGENCE
 We used Microsoft's AI Copilot for assistance in paraphrasing a significant portion of concepts and definitions related to eclipses. This helped us present the information in a simpler and more child-friendly language, enabling young children to gain a better understanding of what an eclipse is and comprehend the rest of the information provided on our interactive web page. <br><br>
 ## SPACE AGENCY DATA
-Eclipses - NASA Science (2023, May 25). Nasa.gov. https://science.nasa.gov/eclipses‌<br>
+Eclipses - NASA Science (2023, May 25). Nasa.gov. https://science.nasa.gov/eclipses <br>
 Lunar Eclipses and Solar Eclipses | NASA Space Place – NASA Science for Kids. (2021). Nasa.gov. https://spaceplace.nasa.gov/eclipses/en/#:~:text=Getting%20a%20chance%20to%20see,path%20of%20the%20Moon's%20shadow‌ <br><br>
 ## REFERENCES
 Dobrijevic, D., &amp; Rao, J. (2022, July 4). What is a solar eclipse? https://www.space.com/15584-solar-eclipses.html<br>
-Images taken from Freepik https://www.freepik.es{:target="_blank"}
+Images taken from Freepik https://www.freepik.es
 
 ## TINYMINDS' TEAM MEMBERS
 Linda Jiménez | @LINDAINES213 <br>
