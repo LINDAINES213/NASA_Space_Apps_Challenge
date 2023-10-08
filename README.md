@@ -4,7 +4,7 @@ Our challenge, which is "Eclipses: Perspective is Everything," aimed to create a
 ## PROJECT DEMO
 N/A
 ## FINAL PROJECT
-https://lindaines213.github.io/Space_Apps_Challenge/{:target="_blank"} <br><br>
+<a href="https://lindaines213.github.io/Space_Apps_Challenge/" target="_blank">https://lindaines213.github.io/Space_Apps_Challenge/</a> <br><br>
 ## PROJECT DETAILS
 Our website begins with images and a welcome message that outlines the page's dynamics, including the new topics you'll learn about, etc. The page itself contains information about eclipses, how they occur, what they are, what types exist, etc., and also includes plenty of images to enhance understanding. In this case, definitions, concepts, and other information about this topic were paraphrased to ensure that young children can comprehend what eclipses are and have effective and enjoyable learning. Towards the end of the page, there is a space-themed maze game to provide additional entertainment for the user.<br><br>
 
