@@ -146,6 +146,10 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 934px;
+  }
+
   .u-section-2 .u-text-1 {
     margin-left: 283px;
   }
@@ -153,6 +157,12 @@
   .u-section-2 .u-text-2 {
     margin-left: 9px;
     margin-right: 9px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 24px;
+    margin-left: auto;
+    margin-bottom: 36px;
   }
 }
 
@@ -174,7 +184,6 @@
 
   .u-section-2 .u-image-1 {
     margin-top: 39px;
-    margin-left: auto;
     margin-bottom: 50px;
   }
 }
