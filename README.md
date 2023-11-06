@@ -1,8 +1,8 @@
-# Space Apps Challenge - Equipo TinyMinds 🧠 - Eclipses: Perspective is Everything 🌒
+# NASA Space Apps Challenge - Equipo TinyMinds 🧠 - Eclipses: Perspective is Everything 🌒
 ## HIGH-LEVEL SUMMARY
 Our challenge, which is "Eclipses: Perspective is Everything," aimed to create a story, activity, game, etc., where young children and teenagers could learn and understand what an eclipse is, how it occurs, and provide as much data and information as possible about them. We developed an interactive website that includes numerous images and information covering everything we were asked to address regarding eclipses. We tried to explain it in the simplest and most friendly way possible so that even young children could comprehend what an eclipse is. At the end of this page, we also added a space-themed maze game that can be played after completing their learning reading. <br><br>
 ## PROJECT DEMO
-N/A
+https://youtu.be/HMs9IRRJs6M
 ## FINAL PROJECT
 https://lindaines213.github.io/Space_Apps_Challenge/
 ## PROJECT DETAILS
